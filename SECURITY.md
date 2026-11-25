@@ -14,7 +14,7 @@ Do not open a public issue, pull request, or discussion for a suspected vulnerab
 
 Include the affected component and version, a description of the impact, steps to reproduce, and a proposed fix if you have one.
 
-If you cannot use GitHub private vulnerability reporting, e-mail **fernando@morais.net.br** with the subject
+If you cannot use GitHub private vulnerability reporting, e-mail **security@ltsboot.org** with the subject
 `[ltsboot security]`. Do not send vulnerability details to any public mailing list or chat.
 
 ## Supported versions
